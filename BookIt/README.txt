@@ -2,7 +2,7 @@
 =====APPLICATION FUNCTIONAL SUMMARY======
 
 - Reads in batch data of booking information from file.
-  sample input data can be found in BookIt/sample-input.txt
+  sample input data can be found in src/test/resources/sample-input.txt
   the first line represents company working hours.
   
 - Removes any bookings that are not within company working hours
