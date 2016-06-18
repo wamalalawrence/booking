@@ -38,5 +38,5 @@
    This will also run tests
    RUN:-   java -jar -Dspring.profiles.active=test target/BookIt.jar
 
-7. The application with exit after successfully processing the batch
+7. The application will exit after successfully processing the batch
 
